@@ -1,0 +1,5 @@
+@startuml
+
+alice -> BOb : link
+
+@enduml

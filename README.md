@@ -10,10 +10,3 @@ Edited in Atom
 Try again
 
 Local change
-
-
-@startuml
-
-alice -> BOb : link
-
-@enduml
